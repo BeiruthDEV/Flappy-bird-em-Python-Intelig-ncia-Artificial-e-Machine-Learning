@@ -60,14 +60,14 @@ python -m venv venv
 Ativar:
 
 Windows (VsCode)
-
+```bash
 .\venv\Scripts\Activate
-
+```
 
 Linux / Mac
-
+```bash
 source venv/bin/activate
-
+```
 
 3. Instale as dependências
 pip install pygame neat-python
